@@ -1,2 +1,1 @@
-# Kolaborasi-IL-kecil
-ini adalah website kolaborasi il kecil TIK-IPS-PPKN di buat oleh rara/91/34
+Ini adalah kolabroasi IL rara/91/34
